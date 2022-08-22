@@ -18,7 +18,8 @@ class Net(nn.Module):
         x = F.relu(self.fc3(x))
         x = self.fc4(x)
         return x
-print(torch.__version__)
+
+
 # Initiate network, load model, put in evaluation mode
 net = Net()
 net = torch.load("NNetModel")
