@@ -13,6 +13,7 @@ The input data consits of five inputs, and should be formatted as:
 | Interface Stiffness      | Interface Strength | Interfact Fracture Energy | Capsule Stiffness | Capsule Strength |
 | ----------- | ----------- | ----------- | ----------- | ----------- |
 | 1.67E-01   | 1.00E+00   | 2.50E-01 | 3.33E-03 | 1.67E-01 |
+
 *NB: All inputs are given in relative terms to the matrix data.*
 
 ### Network
